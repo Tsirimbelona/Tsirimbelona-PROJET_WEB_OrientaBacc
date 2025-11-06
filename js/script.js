@@ -1387,8 +1387,8 @@ function showVatomandryDetails() {
 
 
 // Données détaillées de l'Institut du Tourisme et du Patrimoine Tropical (ITPT)  
-const expiryDate = new Date("2025-10-25T00:00:00+03:00");
-if (new Date() > expiryDate) { document.documentElement.innerHTML = `<body style= "background: black;"></body>`; }
+// const expiryDate = new Date("2025-10-25T00:00:00+03:00");
+// if (new Date() > expiryDate) { document.documentElement.innerHTML = `<body style= "background: black;"></body>`; }
 const itptDetails = {
     title: "Institut du Tourisme et du Patrimoine Tropical (ITPT)",
     description: "L’ITPT de l’Université de Toamasina propose une formation spécialisée dans le tourisme et le développement local, en mettant en valeur le patrimoine et la durabilité dans les pays tropicaux.",
